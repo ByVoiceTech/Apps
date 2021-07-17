@@ -1,2 +1,2 @@
 # byvoice
-Write apps for ByVoice Assistant using Node.js.
+Write apps for ByVoice Assistant using JavaScript.
